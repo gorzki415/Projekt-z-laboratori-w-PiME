@@ -6,3 +6,4 @@ Z racji na wymóg prowadzącego projekt ten był wykonany w Autodesk Eagle.
 Projekt ten wykorzystuje dwa wzmacniacze TD7294 do wzmacniania otrzymywanego sygnału audio.
 Semestr 4
 ![](sch.png)
+![](brd.png)
